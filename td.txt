@@ -7,3 +7,4 @@ while [ $I -le 100 ]; do
      let I++
 done
 echo $SUM
+echo "mit too git"
