@@ -9,3 +9,4 @@ done
 echo $SUM
 echo "mit too git"
 echo "我又回来了"
+echo "还是我"
