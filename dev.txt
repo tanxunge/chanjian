@@ -1,2 +1,6 @@
 warning: LF will be replaced by CRLF in <file-name>.
 The file will have its original line endings in your working directory.
+$ git add readme.txt 
+$ git commit -m "add merge"
+[dev 6224937] add merge
+1 file changed, 1 insertion(+)
