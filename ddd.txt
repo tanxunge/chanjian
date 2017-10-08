@@ -4,6 +4,10 @@ remote: Counting objects: 3, done.
 remote: Total 3 (delta 0), reused 0 (delta 0)
 Receiving objects: 100% (3/3), done.
 
-$ cd gitskills
-$ ls
-README.md
+从github.com 克隆代码的时候出现的问题：
+
+Permanently added the RSA host key for IP address '192.30.252.130' to the list of known hosts.
+
+服务器上刚刚装git,然后拷贝代码出现了上述的问题，这问题很好解决，在hosts文件中加入github.com就可以了，
+
+我的centos服务器，vi /etc/hosts
