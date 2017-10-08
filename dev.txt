@@ -5,3 +5,4 @@ $ git commit -m "add merge"
 [dev 6224937] add merge
 1 file changed, 1 insertion(+)
 wwwwwwwww.seven
+dddddd
